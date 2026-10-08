@@ -1,5 +1,5 @@
 #include <windows.h>
-#include "../ExDLL/exdll.h"
+#include "exdll.h"
 
 static char *szDrivesBuf;
 
